@@ -1,7 +1,7 @@
 # Yrysgul Ergesh
 ***
 ## Junior Backend Developer
-### Contacts:
+### **Contacts:**
 ***
 - **Location:** Bishkek, Kyrgyzstan
 - **Phone:** +996557030733
