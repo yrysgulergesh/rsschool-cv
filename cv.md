@@ -8,4 +8,4 @@
 - **Email:** yrysgulergesh@gmail.com
 - **GitHub:** [yrysgulergesh] (https://github.com/yrysgulergesh)
 - **Telegram** [Telegram] (https://t.me/yrysgul_e)
-- ! [Photo] (/home/admins/Изображения/Ссылка на yrysgul_2022)
+<image src="/images/yrysgul_2022.png" alt="Miss Yrysgul!">
